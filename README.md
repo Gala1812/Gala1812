@@ -10,19 +10,17 @@
 
 ### About Me 🌟
 
-🎓 Educational Background:   Master's degree in economics 
+🎓 **Educational Background:**  *Master's degree in economics* 
 
-💼 Professional Experience:   Experienced supply chain professional with more than 10 years of track record of success in demand and supply planning, process optimization, and team leadership
+🌱 **I’m currently learning:** *AI and specificly Data Science*
 
-🌱 I’m currently learning:   AI and specificly Data Science
+👯 **I’m looking to collaborate on:**
 
-👯 I’m looking to collaborate on: 
+💬 **Ask me about:** *Data Science or Analysis 🧐*
 
-💬 Ask me about:   Data Science or Analysis 🧐
+📫 **How to reach me:**  - [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:galynachupiryova@gmail.com)
 
-📫 How to reach me:   galynachupiryova@gmail.com
-
-⚡ Fun fact: Fan of   bellydance 💃🏻
+⚡ **Fun fact:**  *Fan of 💃🏻*
 
 
 ***
@@ -33,15 +31,15 @@
 
 I'm passionate about diving deep into data to extract meaningful insights. My journey in data science involves:
 
-🔬 Analyzing complex datasets to reveal hidden patterns.
+🔬 - Analyzing complex datasets to reveal hidden patterns.
 
-📈 Visualizing data to communicate findings effectively.
+📈 - Visualizing data to communicate findings effectively.
 
-🤖 Building predictive models to forecast trends and classifications problems.
+🤖 - Building predictive models to forecast trends and classifications problems.
 
-📊 Creating newral networks architeqchues.
+📊 - Creating newral networks architeqchues.
 
-🧠 Learning constantly about new tools and techniques in the ever-evolving field of data science.
+🧠 - Learning constantly about new tools and techniques in the ever-evolving field of data science.
 
 
 ***
@@ -57,16 +55,29 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 ### Skills 💡
 
-Languages: Python, SQL
+- **Languages:**
+ ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-Libraries & Tools: 
-Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn, imbalaced-learn, Keras, NLTK, SpaCy,
+- **Libraries & Tools:** 
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy)
+  ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-263238?style=flat)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-76B900?style=flat)
+  ![Imbalanced-Learn](https://img.shields.io/badge/-ImbalancedLearn-017CEE?style=flat)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
+  ![NLTK](https://img.shields.io/badge/-NLTK-065A60?style=flat)
+  ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat)
 
-Data Analysis & Visualization
 
-Machine Learning
+- **Data Analysis & Visualization**
 
-Deep Learning
+- **Machine Learning**
+
+- **Deep Learning**
 
 
 ***
@@ -74,9 +85,9 @@ Deep Learning
 
 ### Connect with Me 🌐
 
-LinkedIn: www.linkedin.com/in/galyna-chupirova-447b6142
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/galyna-chupirova-447b6142)
+- [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:galynachupiryova@gmail.com)
 
-Email: galynachupiryova@gmail.com
 
 Thank you for stopping by my profile. Let's connect and explore the endless possibilities that data has to offer
 
